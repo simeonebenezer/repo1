@@ -1,0 +1,11 @@
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\bin\Debug\netcoreapp2.0\CoreConsole1.deps.json
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\bin\Debug\netcoreapp2.0\CoreConsole1.runtimeconfig.json
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\bin\Debug\netcoreapp2.0\CoreConsole1.runtimeconfig.dev.json
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\bin\Debug\netcoreapp2.0\CoreConsole1.dll
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\bin\Debug\netcoreapp2.0\CoreConsole1.pdb
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\obj\Debug\netcoreapp2.0\CoreConsole1.csprojResolveAssemblyReference.cache
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\obj\Debug\netcoreapp2.0\CoreConsole1.csproj.CoreCompileInputs.cache
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\obj\Debug\netcoreapp2.0\CoreConsole1.AssemblyInfoInputs.cache
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\obj\Debug\netcoreapp2.0\CoreConsole1.AssemblyInfo.cs
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\obj\Debug\netcoreapp2.0\CoreConsole1.dll
+D:\SimeonPackage4\Projects4\Self4\dotnet\C#\CoreConsole1\CoreConsole1\obj\Debug\netcoreapp2.0\CoreConsole1.pdb
